@@ -1,4 +1,4 @@
-# Validate [BULL][https://solscan.io/tx/5SM9PKze2jiF4XA4pXDpZQQtzvjDjLDmdPvhj8kZ6iqe5gtYRbseynxDSWEPv3WSzcywnZJMVTpUzrPq9Q]
+# Validate [BULL](https://solscan.io/tx/5SM9PKze2jiF4XA4pXDpZQQtzvjDjLDmdPvhj8kZ6iqe5gtYRbseynxDSWEPv3WSzcywnZJMVTpUzrPq9Q)
 
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: [https://x.com/BullishCoinSol/status/1768360481998409863?s=20]
